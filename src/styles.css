@@ -3,6 +3,7 @@
   height: 50px;
   width: 50px;
   background-color: green;
+  border: 1px pink;
   position: absolute;
 }
 
@@ -22,6 +23,7 @@
 #body {
   background: black;
   background-color: blue;
+  border: 1px pink;
   height: 50px;
   width: 50px;
   position: absolute;

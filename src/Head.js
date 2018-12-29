@@ -8,7 +8,7 @@ class Head {
     this.label = "real head"
     this.node = $('<div id="head"></div>');
     this.currentDirection = 'right';
-    this.SPEED = 250;
+    this.SPEED = 150;
     $el.append(this.node);
     this.node.css({ top: 0, left: 0});
     this.pos = this.node.position()
